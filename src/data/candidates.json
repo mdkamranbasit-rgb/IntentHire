@@ -1,0 +1,4888 @@
+[
+  {
+    "candidate_id": "anonymized_AA_1793682784144",
+    "source_filename": "anonymized_AA_1793682784144.docx",
+    "extraction_status": "readable",
+    "character_count": 4006,
+    "lca_score": 45.8,
+    "uiux_score": 0,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 16.25,
+        "evidence": [
+          "Life Cycle Assessment"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 13.0,
+        "evidence": [
+          "OpenLCA"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "Environmental Engineering",
+          "Energy and Environmental",
+          "Environmental Management"
+        ]
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Environmental Engineer"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_AA_1793685080195",
+    "source_filename": "anonymized_AA_1793685080195.docx",
+    "extraction_status": "readable",
+    "character_count": 1725,
+    "lca_score": 0,
+    "uiux_score": 59.5,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "wirefram",
+          "mockup",
+          "user flow",
+          "information architecture"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "user research"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "Interface design",
+          "Product Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "visual hierarchy",
+          "typography",
+          "Graphic design"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_AA_1793685080402",
+    "source_filename": "anonymized_AA_1793685080402.docx",
+    "extraction_status": "readable",
+    "character_count": 2405,
+    "lca_score": 0,
+    "uiux_score": 86.0,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "User Research",
+          "Usability Test",
+          "Persona",
+          "Journey Map"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "user-centered"
+        ]
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UI Design"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "visual hierarchy",
+          "typography",
+          "Graphic Design",
+          "brand identity"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "landing page"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "mobile-first",
+          "cross-functional",
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_AK_1793682784184",
+    "source_filename": "anonymized_AK_1793682784184.docx",
+    "extraction_status": "readable",
+    "character_count": 4521,
+    "lca_score": 39.0,
+    "uiux_score": 22.8,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 16.25,
+        "evidence": [
+          "Life Cycle Assessment"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "data validation"
+        ]
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Environmental Engineering"
+        ]
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Environmental Engineer"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "persona"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "portfolio"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "cross-functional"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_AL_1793685080183",
+    "source_filename": "anonymized_AL_1793685080183.docx",
+    "extraction_status": "readable",
+    "character_count": 2502,
+    "lca_score": 0,
+    "uiux_score": 77.8,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Figma",
+          "Adobe XD"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "user flow"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Usability Test"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "visual hierarchy",
+          "typography",
+          "colour theory",
+          "Graphic Design"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "design project"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_AN_1793685080356",
+    "source_filename": "anonymized_AN_1793685080356.docx",
+    "extraction_status": "readable",
+    "character_count": 1780,
+    "lca_score": 0,
+    "uiux_score": 56.5,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Figma",
+          "Penpot"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "user flow"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "interface design",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "visual hierarchy"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "Responsive Design",
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_APS_1793685080222",
+    "source_filename": "anonymized_APS_1793685080222.docx",
+    "extraction_status": "readable",
+    "character_count": 3025,
+    "lca_score": 0,
+    "uiux_score": 84.2,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Figma",
+          "Adobe XD"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "Mockup",
+          "User Flow"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "user research"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "user-centered"
+        ]
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI Design",
+          "interface design"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "Visual Hierarchy",
+          "Graphic Design",
+          "brand identity"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "landing page"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_AR_1793685080207",
+    "source_filename": "anonymized_AR_1793685080207.docx",
+    "extraction_status": "readable",
+    "character_count": 2320,
+    "lca_score": 0,
+    "uiux_score": 74.2,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Prototyp",
+          "Wirefram",
+          "user flow"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "persona"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UI design",
+          "interface design"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "Visual Design",
+          "visual hierarchy",
+          "typography"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "landing page"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "Responsive Design",
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_AS_1793685080379",
+    "source_filename": "anonymized_AS_1793685080379.docx",
+    "extraction_status": "readable",
+    "character_count": 3206,
+    "lca_score": 0,
+    "uiux_score": 65.5,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Information Architecture"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "User Research"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "Product Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "typography"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "landing page"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "cross-functional",
+          "collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_AY_1793685080440",
+    "source_filename": "anonymized_AY_1793685080440.docx",
+    "extraction_status": "readable",
+    "character_count": 1693,
+    "lca_score": 0,
+    "uiux_score": 67.8,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "information architecture"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "user research",
+          "usability test",
+          "persona",
+          "Journey Map"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI Design",
+          "interface design"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "design project"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_BA_1793682784206",
+    "source_filename": "anonymized_BA_1793682784206.docx",
+    "extraction_status": "readable",
+    "character_count": 2642,
+    "lca_score": 0,
+    "uiux_score": 3.2,
+    "initial_classification": "neither/uncertain",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_BS_1793685080461",
+    "source_filename": "anonymized_BS_1793685080461.docx",
+    "extraction_status": "readable",
+    "character_count": 1735,
+    "lca_score": 0,
+    "uiux_score": 49.5,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Prototyp",
+          "Wirefram"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "User Research"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "Product Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_CG_1793685080278",
+    "source_filename": "anonymized_CG_1793685080278.docx",
+    "extraction_status": "readable",
+    "character_count": 2879,
+    "lca_score": 0,
+    "uiux_score": 86.0,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "user flow",
+          "Information Architecture"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "User Research",
+          "usability test"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "user-centered"
+        ]
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "Visual Design",
+          "visual hierarchy"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "App Design"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "mobile-first",
+          "cross-functional",
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_CM_1793685080412",
+    "source_filename": "anonymized_CM_1793685080412.docx",
+    "extraction_status": "readable",
+    "character_count": 2141,
+    "lca_score": 0,
+    "uiux_score": 56.2,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Prototyp",
+          "Wirefram",
+          "user flow",
+          "information architecture"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "user-centered"
+        ]
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "visual design",
+          "typography"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_DP_1793685080247",
+    "source_filename": "anonymized_DP_1793685080247.docx",
+    "extraction_status": "readable",
+    "character_count": 2310,
+    "lca_score": 0,
+    "uiux_score": 66.2,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Figma",
+          "Sketch"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "user flow"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "user-centered"
+        ]
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "Product Designer",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "design project"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "cross-functional",
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_DS_1793685080257",
+    "source_filename": "anonymized_DS_1793685080257.docx",
+    "extraction_status": "readable",
+    "character_count": 2376,
+    "lca_score": 0,
+    "uiux_score": 71.0,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "user flow"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Usability Test",
+          "User Interview",
+          "persona"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "interface design",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Graphic Design"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "portfolio"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_DVJ_1793685080268",
+    "source_filename": "anonymized_DVJ_1793685080268.docx",
+    "extraction_status": "readable",
+    "character_count": 2368,
+    "lca_score": 0,
+    "uiux_score": 64.5,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "user flow",
+          "information architecture"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "user research",
+          "usability test"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "user-centered"
+        ]
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UI design",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "mobile-first"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_FK_1793685080451",
+    "source_filename": "anonymized_FK_1793685080451.docx",
+    "extraction_status": "readable",
+    "character_count": 1848,
+    "lca_score": 0,
+    "uiux_score": 66.0,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "Information Architecture"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "journey map"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "user-centered"
+        ]
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UI Design",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "Graphic Design",
+          "brand identity"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_FT_1793685080301",
+    "source_filename": "anonymized_FT_1793685080301.docx",
+    "extraction_status": "readable",
+    "character_count": 2828,
+    "lca_score": 0,
+    "uiux_score": 50.8,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Prototyp",
+          "Wirefram",
+          "User Flow",
+          "information architecture"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Product Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "visual design"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Case Study"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_HD_1793682784275",
+    "source_filename": "anonymized_HD_1793682784275.docx",
+    "extraction_status": "readable",
+    "character_count": 5001,
+    "lca_score": 42.5,
+    "uiux_score": 5.0,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 16.25,
+        "evidence": [
+          "cradle-to-gate"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "data validation"
+        ]
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "Environmental Engineering",
+          "Environmental Management"
+        ]
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Environmental Engineer"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "cross-functional",
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_HM_1793682784257",
+    "source_filename": "anonymized_HM_1793682784257.docx",
+    "extraction_status": "readable",
+    "character_count": 3739,
+    "lca_score": 44.5,
+    "uiux_score": 3.2,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 25.0,
+        "evidence": [
+          "Life Cycle Assessment",
+          "cradle-to-grave"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 13.0,
+        "evidence": [
+          "SimaPro"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "LCA Analyst"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_KA_1793682784307",
+    "source_filename": "anonymized_KA_1793682784307.docx",
+    "extraction_status": "readable",
+    "character_count": 2099,
+    "lca_score": 16.5,
+    "uiux_score": 9.8,
+    "initial_classification": "neither/uncertain",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "Environmental Science",
+          "Chemical Engineering"
+        ]
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "environmental engineer"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Persona"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_KN_1793685080310",
+    "source_filename": "anonymized_KN_1793685080310.docx",
+    "extraction_status": "readable",
+    "character_count": 621,
+    "lca_score": 0,
+    "uiux_score": 46.2,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Prototyp",
+          "Wirefram"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "user-centered"
+        ]
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_MI_1793685080235",
+    "source_filename": "anonymized_MI_1793685080235.docx",
+    "extraction_status": "readable",
+    "character_count": 2026,
+    "lca_score": 0,
+    "uiux_score": 74.5,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "User Flow",
+          "Information Architecture"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Usability Test",
+          "persona",
+          "Journey Map"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UX designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "visual design",
+          "brand identity"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "portfolio"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_MM_1793685080338",
+    "source_filename": "anonymized_MM_1793685080338.docx",
+    "extraction_status": "readable",
+    "character_count": 2446,
+    "lca_score": 0,
+    "uiux_score": 80.8,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "user flow",
+          "information architecture"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "user research"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "user-centered"
+        ]
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "Visual Design",
+          "typography",
+          "brand identity"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Case Study"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "Responsive Design",
+          "collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_MS_1793682784442",
+    "source_filename": "anonymized_MS_1793682784442.docx",
+    "extraction_status": "readable",
+    "character_count": 4256,
+    "lca_score": 61.0,
+    "uiux_score": 0,
+    "initial_classification": "stronger LCA match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 16.25,
+        "evidence": [
+          "Life Cycle Assessment"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 20.0,
+        "evidence": [
+          "SimaPro",
+          "openLCA"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "LCI",
+          "Life Cycle Invent",
+          "LCA Model",
+          "data collection"
+        ]
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "ReCiPe"
+        ]
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "LCA Consultant"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_NA_1793682784346",
+    "source_filename": "anonymized_NA_1793682784346.docx",
+    "extraction_status": "readable",
+    "character_count": 2492,
+    "lca_score": 39.0,
+    "uiux_score": 0,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 16.25,
+        "evidence": [
+          "Life Cycle Assessment"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Data collection"
+        ]
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Environmental Science"
+        ]
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Sustainability Consultant"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_NF_1793685080347",
+    "source_filename": "anonymized_NF_1793685080347.docx",
+    "extraction_status": "readable",
+    "character_count": 1656,
+    "lca_score": 0,
+    "uiux_score": 71.0,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "user flow",
+          "Information Architecture"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "user research",
+          "Usability Test",
+          "User interview",
+          "persona",
+          "journey map"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "user-centered"
+        ]
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UI Design",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "visual hierarchy"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_NP_1793682784325",
+    "source_filename": "anonymized_NP_1793682784325.docx",
+    "extraction_status": "readable",
+    "character_count": 3368,
+    "lca_score": 71.5,
+    "uiux_score": 0,
+    "initial_classification": "stronger LCA match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 25.0,
+        "evidence": [
+          "Life Cycle Assessment",
+          "LCA of",
+          "Cradle-to-Gate"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 20.0,
+        "evidence": [
+          "GaBi",
+          "SimaPro",
+          "OpenLCA"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "LCA model",
+          "data collection"
+        ]
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "EPD",
+          "Environmental Product Declaration",
+          "ecoinvent"
+        ]
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "LCA professional"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_N_1793685080389",
+    "source_filename": "anonymized_N_1793685080389.docx",
+    "extraction_status": "readable",
+    "character_count": 1883,
+    "lca_score": 0,
+    "uiux_score": 53.0,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "user flow"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UI Design",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "visual hierarchy",
+          "typography"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "responsive design"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_PD_1793682784400",
+    "source_filename": "anonymized_PD_1793682784400.docx",
+    "extraction_status": "readable",
+    "character_count": 2701,
+    "lca_score": 13.0,
+    "uiux_score": 9.8,
+    "initial_classification": "neither/uncertain",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "data collection"
+        ]
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "benchmarking"
+        ]
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "portfolio"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_PKG_1793682784369",
+    "source_filename": "anonymized_PKG_1793682784369.docx",
+    "extraction_status": "readable",
+    "character_count": 2732,
+    "lca_score": 16.5,
+    "uiux_score": 9.8,
+    "initial_classification": "neither/uncertain",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "Environmental Science",
+          "environmental management"
+        ]
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "environmental engineer"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Case Study"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_PL_1793685080319",
+    "source_filename": "anonymized_PL_1793685080319.docx",
+    "extraction_status": "readable",
+    "character_count": 2087,
+    "lca_score": 0,
+    "uiux_score": 69.8,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Figma",
+          "Sketch",
+          "Adobe XD"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "wirefram",
+          "user flow"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "user research",
+          "persona"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "user-centered"
+        ]
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UI Design",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_PS_1793682784387",
+    "source_filename": "anonymized_PS_1793682784387.docx",
+    "extraction_status": "readable",
+    "character_count": 2883,
+    "lca_score": 9.8,
+    "uiux_score": 14.8,
+    "initial_classification": "neither/uncertain",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "data validation"
+        ]
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "portfolio"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "cross-functional",
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_PV_1793685080171",
+    "source_filename": "anonymized_PV_1793685080171.docx",
+    "extraction_status": "readable",
+    "character_count": 1476,
+    "lca_score": 0,
+    "uiux_score": 56.0,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Figma"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Prototyp",
+          "Wirefram"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "User Research"
+        ]
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI Design",
+          "Product Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Graphic Design"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_PW_1793682784228",
+    "source_filename": "anonymized_PW_1793682784228.docx",
+    "extraction_status": "readable",
+    "character_count": 5546,
+    "lca_score": 67.8,
+    "uiux_score": 5.0,
+    "initial_classification": "stronger LCA match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 25.0,
+        "evidence": [
+          "Life Cycle Assessment",
+          "LCA of"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 20.0,
+        "evidence": [
+          "GaBi",
+          "OpenLCA"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "life cycle invent"
+        ]
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Chemical Engineering"
+        ]
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Sustainability Consultant"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "cross-functional",
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_PW_1793685080367",
+    "source_filename": "anonymized_PW_1793685080367.docx",
+    "extraction_status": "readable",
+    "character_count": 2166,
+    "lca_score": 0,
+    "uiux_score": 61.2,
+    "initial_classification": "stronger UI/UX match",
+    "confidence": "moderate",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "Figma",
+          "Adobe XD"
+        ]
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "prototyp",
+          "wirefram",
+          "user flow",
+          "information architecture"
+        ]
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "user-centered"
+        ]
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "UI/UX",
+          "UI design",
+          "UX Designer"
+        ]
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "visual design"
+        ]
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_RR_1793682784428",
+    "source_filename": "anonymized_RR_1793682784428.docx",
+    "extraction_status": "readable",
+    "character_count": 2699,
+    "lca_score": 51.0,
+    "uiux_score": 3.2,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 25.0,
+        "evidence": [
+          "Life Cycle Assessment",
+          "LCA of"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 13.0,
+        "evidence": [
+          "openLCA"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "life cycle invent"
+        ]
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "Ecoinvent"
+        ]
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_RS_1793682784414",
+    "source_filename": "anonymized_RS_1793682784414.docx",
+    "extraction_status": "readable",
+    "character_count": 4375,
+    "lca_score": 31.2,
+    "uiux_score": 14.8,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 16.25,
+        "evidence": [
+          "Life Cycle Assessment"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "data validation",
+          "data collection"
+        ]
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "Case Study"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "cross-functional",
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_SRK_1793682784455",
+    "source_filename": "anonymized_SRK_1793682784455.docx",
+    "extraction_status": "readable",
+    "character_count": 2879,
+    "lca_score": 49.0,
+    "uiux_score": 5.0,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 16.25,
+        "evidence": [
+          "Life Cycle Assessment"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 13.0,
+        "evidence": [
+          "OpenLCA"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "data collection"
+        ]
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 10.0,
+        "evidence": [
+          "LCA Consultant",
+          "Environmental Engineer"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "cross-functional",
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_SS_1793682784470",
+    "source_filename": "anonymized_SS_1793682784470.docx",
+    "extraction_status": "readable",
+    "character_count": 3477,
+    "lca_score": 56.5,
+    "uiux_score": 3.2,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 25.0,
+        "evidence": [
+          "Life Cycle Assessment",
+          "LCA studies",
+          "LCA of",
+          "cradle-to-gate"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 20.0,
+        "evidence": [
+          "Gabi",
+          "SimaPro",
+          "OpenLCA"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Sustainable Engineering"
+        ]
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "benchmarking",
+          "Ecoinvent",
+          "ReCiPe"
+        ]
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_SS_1793682784484",
+    "source_filename": "anonymized_SS_1793682784484.docx",
+    "extraction_status": "readable",
+    "character_count": 2538,
+    "lca_score": 54.5,
+    "uiux_score": 3.2,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 16.25,
+        "evidence": [
+          "Life Cycle Assessment"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 20.0,
+        "evidence": [
+          "OpenLCA",
+          "Open LCA"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 15.0,
+        "evidence": [
+          "data validation",
+          "data collection"
+        ]
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "Benchmarking"
+        ]
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "cross-functional"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_TM_1793682784495",
+    "source_filename": "anonymized_TM_1793682784495.docx",
+    "extraction_status": "readable",
+    "character_count": 2945,
+    "lca_score": 47.8,
+    "uiux_score": 5.0,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 25.0,
+        "evidence": [
+          "Life Cycle Assessment",
+          "cradle-to-gate"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 13.0,
+        "evidence": [
+          "SimaPro"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "benchmarking"
+        ]
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Sustainability Engineer"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 5.0,
+        "evidence": [
+          "cross-functional",
+          "Collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_UI_1793682784506",
+    "source_filename": "anonymized_UI_1793682784506.docx",
+    "extraction_status": "readable",
+    "character_count": 2635,
+    "lca_score": 45.5,
+    "uiux_score": 0,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 16.25,
+        "evidence": [
+          "LCA studies"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 13.0,
+        "evidence": [
+          "Air.e"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Environmental Science"
+        ]
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "EPD"
+        ]
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Sustainability Consultant"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_VG_1793682784531",
+    "source_filename": "anonymized_VG_1793682784531.docx",
+    "extraction_status": "readable",
+    "character_count": 4482,
+    "lca_score": 13.0,
+    "uiux_score": 3.2,
+    "initial_classification": "neither/uncertain",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 13.0,
+        "evidence": [
+          "OpenLCA"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "collaborat"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_VM_1793682784520",
+    "source_filename": "anonymized_VM_1793682784520.docx",
+    "extraction_status": "readable",
+    "character_count": 2623,
+    "lca_score": 42.8,
+    "uiux_score": 13.0,
+    "initial_classification": "uncertain / human review",
+    "confidence": "low",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 16.25,
+        "evidence": [
+          "cradle-to-grave"
+        ]
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 20.0,
+        "evidence": [
+          "GaBi",
+          "OpenLCA"
+        ]
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 6.5,
+        "evidence": [
+          "Sustainability Consultant"
+        ]
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 9.75,
+        "evidence": [
+          "portfolio"
+        ]
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 3.25,
+        "evidence": [
+          "cross-functional"
+        ]
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  },
+  {
+    "candidate_id": "anonymized_resume_1793685080327",
+    "source_filename": "anonymized_resume_1793685080327.docx",
+    "extraction_status": "blank_or_unreadable",
+    "character_count": 0,
+    "lca_score": 0,
+    "uiux_score": 0,
+    "initial_classification": "neither/uncertain",
+    "confidence": "insufficient_data",
+    "lca_evidence": {
+      "direct_lca_work": {
+        "weight": 25,
+        "points": 0,
+        "evidence": []
+      },
+      "lca_software": {
+        "weight": 20,
+        "points": 0,
+        "evidence": []
+      },
+      "lci_data_and_modelling": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "iso_14040_14044": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_domain_education": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "epd_and_benchmarking": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      },
+      "relevant_industry_experience": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "uiux_evidence": {
+      "figma_and_design_tools": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "prototyping_and_wireframes": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_research_and_testing": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "user_psychology_and_hcd": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "interface_design": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "visual_design": {
+        "weight": 10,
+        "points": 0,
+        "evidence": []
+      },
+      "design_projects_or_portfolio": {
+        "weight": 15,
+        "points": 0,
+        "evidence": []
+      },
+      "responsive_and_collaboration": {
+        "weight": 5,
+        "points": 0,
+        "evidence": []
+      }
+    },
+    "review_note": "Automated first-pass evidence score only; verify dates, project counts, tool proficiency and claims against source resume."
+  }
+]

@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Vercel
+.vercel/
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# Original candidate resumes - never upload
+public/resumes/
+../private-resumes/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# Debug logs
+npm-debug.log*
